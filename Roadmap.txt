@@ -1,0 +1,915 @@
+Python Basics:
+Lecture 1 : Introduction to Python
+
+Lecture 2 : Python Objects, Number & Booleans, Strings.
+
+Lecture 3 : Container Objects, Mutability Of Objects
+
+Lecture 4 : Operators
+
+Lecture 5 : python Type Conversion
+
+Lecture 6 : Conditions (If Else, If-Elif-Else)
+
+Lecture 7 : Loops (While, For)
+
+Lecture 8 : Break And Continue Statement And Range Function
+
+Lecture 9 : python Namespace
+
+
+Data Types & functions:
+Lecture 1 : Basic Data Structure In Python
+
+Lecture 2 : String Object Basics
+
+Lecture 3 : String Inbuilt Methods
+
+Lecture 4 : Splitting And Joining Strings
+
+Lecture 5 : String Format Functions
+
+Lecture 6 : List Methods
+
+Lecture 7 : List As Stack And Queues
+
+Lecture 8 : List Comprehensions
+
+Lecture 9 : Tuples, Sets & Dictionary Object Methods
+
+Lecture 10 : Dictionary Comprehensions
+
+Lecture 11 : Dictionary View Objects
+
+Lecture 12 : Functions Basics, Parameter Passing, Iterators.
+
+Lecture 13 : Generator Functions
+
+Lecture 14 : Lambda Functions
+
+Lecture 15 : Map, Reduce, Filter Functions.
+
+
+OOPS:
+Lecture 1 : OOPS Basic Concepts.
+
+Lecture 2 : Creating Classes
+
+Lecture 3 : Pillars Of OOPS
+
+Lecture 4 : Inheritance
+
+Lecture 5 : Polymorphism
+
+Lecture 6 : Encapsulation
+
+Lecture 7 : Abstraction
+
+Lecture 8 : Decorator
+
+Lecture 9 : Class Methods And Static Methods
+
+Lecture 10 : Special (Magic/Dunder) Methods
+
+Lecture 11 : Property Decorators - Getters, Setters, And Deletes
+
+
+Files & Exceptional Handling:
+Lecture 1 : Working With Files
+
+Lecture 2 : Reading And Writing Files
+
+Lecture 3 : Buffered Read And Write
+
+Lecture 4 : Other File Methods.
+
+Lecture 5 : Logging, Debugger
+
+Lecture 6 : Modules And Import Statements
+
+Lecture 7 : Exceptions Handling With Try-Except
+
+Lecture 8 : Custom Exception Handling
+
+Lecture 9 : List Of General Use Exception
+
+Lecture 10 : Best Practice Exception Handling
+
+
+Database & Web Api:
+Lecture 1 : Multithreading
+
+Lecture 2 : Multiprocessing
+
+Lecture 3 : Mysql
+
+Lecture 4 : Mongo Db
+
+Lecture 5 : What Is Web Api
+
+Lecture 6 : Difference B/W Api And Web Api
+
+Lecture 7 : Rest And Soap Architecture
+
+Lecture 8 : Restful Services
+
+
+Python Libraries:
+Lecture 1 : Numpy
+
+Lecture 2 : Pandas
+
+Lecture 3 : Matplotlib
+
+Lecture 4 : Seaborn
+
+Lecture 5 : Plotly
+
+Lecture 6 : Bokeh
+
+
+Statistics Basics:
+Lecture 1 : Introduction To Basic Statistics Terms
+
+Lecture 2 : Types Of Statistics
+
+Lecture 3 : Types Of Data
+
+Lecture 4 : Levels Of Measurement
+
+Lecture 5 : Measures Of Central Tendency
+
+Lecture 6 : Measures Of Dispersion
+
+Lecture 7 : Random Variables
+
+Lecture 8 : Set
+
+Lecture 9 : Skewness
+
+Lecture 10 : Covariance And Correlation
+
+
+Statistics Advance:
+Lecture 1 : Probability Density/Distribution Function
+
+Lecture 2 : Types Of The Probability Distribution
+
+Lecture 3 : Binomial Distribution
+
+Lecture 4 : Poisson Distribution
+
+Lecture 5 : Normal Distribution (Gaussian Distribution)
+
+Lecture 6 : Probability Density Function And Mass Function
+
+Lecture 7 : Cumulative Density Function
+
+Lecture 8 : Examples Of Normal Distribution
+
+Lecture 9 : Bernoulli Distribution
+
+Lecture 10 : Uniform Distribution
+
+Lecture 11 : Z Stats
+
+Lecture 12 : Central Limit Theorem
+
+Lecture 13 : Estimation
+
+Lecture 14 : A Hypothesis
+
+Lecture 15 : Hypothesis Testing’S Mechanism
+
+Lecture 16 : P-Value
+
+Lecture 17 : T-Stats
+
+Lecture 18 : Student T Distribution
+
+Lecture 19 : T-Stats Vs. Z-Stats: Overview
+
+Lecture 20 : When To Use A T-Tests Vs. Z-Tests
+
+Lecture 21 : Type 1 & Type 2 Error
+
+Lecture 22 : Confidence Interval(Ci)
+
+Lecture 23 : Confidence Intervals And The Margin Of Error
+
+Lecture 24 : Interpreting Confidence Levels And Confidence Intervals
+
+Lecture 25 : Chi-Square Test
+
+Lecture 26 : Chi-Square Distribution Using Python
+
+Lecture 27 : Chi-Square For Goodness Of Fit Test
+
+Lecture 28 : When To Use Which Statistical Distribution?
+
+Lecture 29 : Analysis Of Variance (Anova)
+
+Lecture 30 : Anova Three Type
+
+Lecture 31 : Partitioning Of Variance In The Anova
+
+Lecture 32 : Calculating Using Python
+
+Lecture 33 : F-Distribution
+
+Lecture 34 : F-Test (Variance Ratio Test)
+
+Lecture 35 : Determining The Values Of F
+
+Lecture 36 : F Distribution Using Python
+
+Introduction to ML:
+Lecture 1 : AI vs ML vs DL vs DS
+
+Lecture 2 : Supervised, Unsupervised
+
+Lecture 3 : Semi-Supervised, Reinforcement Learning
+
+Lecture 4 : Train, Test, Validation Split
+
+Lecture 5 : Overfitting, Under Fitting
+
+Lecture 6 : Bias Vs Variance
+
+
+Feature Engineering :
+Lecture 1 : Handling Missing Data
+
+Lecture 2 : Handling Imbalanced Data
+
+Lecture 3 : Up-Sampling
+
+Lecture 4 : Down-Sampling
+
+Lecture 5 : Smote
+
+Lecture 6 : Data Interpolation
+
+Lecture 7 : Handling Outliers
+
+Lecture 8 : Filter Method
+
+Lecture 9 : Wrapper Method
+
+Lecture 10 : Wrapper Method
+
+Lecture 11 : Embedded Methods
+
+Lecture 12 : Feature Scaling
+
+Lecture 13 : Standardization
+
+Lecture 14 : Mean Normalization
+
+Lecture 15 : Min-Max Scaling
+
+Lecture 16 : Unit Vector
+
+Lecture 17 : Feature Extraction
+
+Lecture 18 : Pca (Principle Component Analysis)
+
+Lecture 19 : Data Encoding
+
+Lecture 20 : Nominal Encoding
+
+Lecture 21 : One Hot Encoding
+
+Lecture 22 : One Hot Encoding With Multiple Categories
+
+Lecture 23 : Mean Encoding
+
+Lecture 24 : Ordinal Encoding
+
+Lecture 25 : Label Encoding
+
+Lecture 26 : Target Guided Ordinal Encoding
+
+Lecture 27 : Covariance
+
+Lecture 28 : Correlation Check
+
+Lecture 29 : Pearson Correlation Coefficient
+
+Lecture 30 : Spearman’S Rank Correlation
+
+Lecture 31 : Vif
+
+Lecture 32 : Feature Selection
+
+Lecture 33 : Recursive Feature Elimination
+
+Lecture 34 : Backward Elimination
+
+Lecture 35 : Forward Elimination
+
+
+Exploratory Data Analysis:
+Lecture 1 : Feature Engineering And Selection.
+
+Lecture 2 : Analyzing Movie Reviews Sentiment.
+
+Lecture 3 : Customer Segmentation And Cross Selling Suggestions.
+
+Lecture 4 : Forecasting Stock And Commodity Prices
+
+
+Regression:
+Lecture 1 : Linear Regression
+
+Lecture 2 : Gradient Descent
+
+Lecture 3 : Multiple Linear Regression
+
+Lecture 4 : Polynomial Regression
+
+Lecture 5 : R Square And Adjusted R Square
+
+Lecture 6 : Rmse , Mse, Mae Comparison
+
+Lecture 7 : Regularized Linear Models
+
+Lecture 8 : Regularized Linear Models
+
+Lecture 9 : Ridge Regression
+
+Lecture 10 : Lasso Regression
+
+Lecture 11 : Lasso Regression
+
+Lecture 12 : Elastic Net
+
+Lecture 13 : Logistics Regression In-Depth Intuition
+
+Lecture 14 : In-Depth Mathematical Intuition
+
+Lecture 15 : In-Depth Geometrical Intuition
+
+Lecture 16 : Hyper Parameter Tuning
+
+Lecture 17 : Grid Search Cv
+
+Lecture 18 : Randomize Search Cv
+
+Lecture 19 : Data Leakage
+
+Lecture 20 : Confusion Matrix
+
+Lecture 21 : Explanation Precision,Recall,F1 Score ,Roc, Auc
+
+Lecture 22 : Best Metric Selection
+
+Lecture 23 : Multiclass Classification In Lr
+
+
+Decision Trees & SVM:
+Lecture 1 : Decision Tree Classifier
+
+Lecture 2 : In-Depth Mathematical Intuition
+
+Lecture 3 : In-Depth Geometrical Intuition
+
+Lecture 4 : Confusion Matrix
+
+Lecture 5 : Best Metric Selection
+
+Lecture 6 : Decision Tree Regressor
+
+Lecture 7 : In-Depth Mathematical Intuition
+
+Lecture 8 : In-Depth Geometrical Intuition
+
+Lecture 9 : Performance Metrics
+
+Lecture 10 : Linear Svm Classification
+
+Lecture 11 : In-Depth Mathematical Intuition
+
+Lecture 12 : In-Depth Geometrical Intuition
+
+Lecture 13 : Soft Margin Classification
+
+Lecture 14 : Nonlinear Svm Classification
+
+Lecture 15 : Polynomial Kernel
+
+Lecture 16 : Gaussian, Rbf Kernel
+
+Lecture 17 : Data Leakage
+
+Lecture 18 : Confusion Matrix
+
+Lecture 19 : Precision, Recall,F1 Score ,Roc, Auc
+
+Lecture 20 : Best Metric Selection
+
+Lecture 21 : Svm Regression
+
+Lecture 22 : In-Depth Mathematical Intuition
+
+Lecture 23 : In-Depth Geometrical Intuition
+
+
+Naive Bayes & Ensemble techniques:
+Lecture 1 : Bayes Theorem
+
+Lecture 2 : Multinomial Naïve Bayes
+
+Lecture 3 : Gaussian Naïve Bayes
+
+Lecture 4 : Various Type Of Bayes Theorem And Its Intuition
+
+Lecture 5 : Confusion Matrix
+
+Lecture 6 : Best Metric Selection
+
+Lecture 7 : Definition Of Ensemble Techniques
+
+Lecture 8 : Bagging Technique
+
+Lecture 9 : Bootstrap Aggregation
+
+Lecture 10 : Random Forest (Bagging Technique)
+
+Lecture 11 : Random Forest Repressor
+
+Lecture 12 : Random Forest Classifier
+
+Boosting, KNN & Dimensit Reduction:
+Lecture 1 : Boosting Technique
+
+Lecture 2 : Ada Boost
+
+Lecture 3 : Gradient Boost
+
+Lecture 4 : Xgboost
+
+Lecture 5 : Knn Classifier
+
+Lecture 6 : Knn Regressor
+
+Lecture 7 : Variants Of Knn
+
+Lecture 8 : Brute Force Knn
+
+Lecture 9 : K-Dimension Tree
+
+Lecture 10 : Ball Tree
+
+Lecture 11 : The Curse Of Dimensionality
+
+Lecture 12 : Dimensionality Reduction Technique
+
+Lecture 13 : Pca (Principle Component Analysis)
+
+Lecture 14 : Mathematics Behind Pca
+
+Lecture 15 : Scree Plots
+
+Lecture 16 : Eigen-Decomposition Approach
+
+Lecture 17 : Practicals
+
+
+Anomaly Detection & Time Series:
+Lecture 1 : Anomaly Detection Types
+
+Lecture 2 : Anomaly Detection Applications
+
+Lecture 3 : Isolation Forest Anomaly Detection Algorithm
+
+Lecture 4 : Density-Based Anomaly Detection (Local Outlier Factor) Algorithm
+
+Lecture 5 : Isolation Forest Anomaly Detection Algorithm
+
+Lecture 6 : Support Vector Machine Anomaly Detection Algorithm
+
+Lecture 7 : Dbscan Algorithm For Anomaly Detection
+
+Lecture 8 : What Is A Time Series?
+
+Lecture 9 : Old Techniques
+
+Lecture 10 : Arima
+
+Lecture 11 : Acf And Pacf
+
+Lecture 12 : Time-Dependent Seasonal Components.
+
+Lecture 13 : Autoregressive (Ar),
+
+Lecture 14 : Moving Average (Ma) And Mixed Arma- Modeler.
+
+
+Neural Network A Simple Perception:
+Lecture 1 : Introduction to Deep Learning
+
+Lecture 2 : Neural Network Overview And Its Use Case.
+
+Lecture 3 : Detail Mathematical Explanation
+
+Lecture 4 : Various Neural Network Architect Overview.
+
+Lecture 5 : Various Neural Network Architect Overview.
+
+Lecture 6 : Use Case Of Neural Network In Nlp And Computer Vision.
+
+Lecture 7 : Activation Function -All Name
+
+Lecture 8 : Multilayer Network.
+
+Lecture 9 : Loss Functions. - All 10
+
+Lecture 10 : Forward And Backward Propagation.
+
+Lecture 11 : Optimizers. - All 10
+
+Lecture 12 : Forward And Backward Propagation.
+
+Lecture 13 : Vanishing Gradient Problem
+
+Lecture 14 : Weight Initialization Technique
+
+Lecture 15 : Exploding Gradient Problem
+
+Lecture 16 : Visualization Of Neural Network
+
+Lecture 17 : The Learning Mechanism
+
+
+Deep Learning Frameworks:
+Lecture 1 : Colab Pro Setup
+
+Lecture 2 : TensorFlow Installation 2.0 .
+
+Lecture 3 : TensorFlow 2.0 Function.
+
+Lecture 4 : TensorFlow 2.0 Neural Network Creation.
+
+Lecture 5 : Mini Project In TensorFlow.
+
+Lecture 6 : Tensor space
+
+Lecture 7 : Tensor board Integration
+
+Lecture 8 : TensorFlow Playground
+
+Lecture 9 : Netron
+
+Lecture 10 : Pytorch Installation
+
+Lecture 11 : Pytorch Functional Overview
+
+Lecture 12 : Pytorch Neural Network Creation
+
+
+CNN Architecture:
+Lecture 1 : Cnn Fundamentals
+
+Lecture 2 : Cnn Explained In Detail - Cnnexplainer, Tensor space
+
+Lecture 3 : Various Cnn Based Architecture
+
+Lecture 4 : Training Cnn From Scratch
+
+Lecture 5 : Building Webapps For Cnn
+
+Lecture 6 : Deployment In AWS
+
+
+Image Classifications:
+Lecture 1 : Various Cnn Architecture With Research Paper And Mathematics
+
+Lecture 2 : Lenet-5 Variants With Research Paper And Practical
+
+Lecture 3 : Alexnet Variants With Research Paper And Practical
+
+Lecture 4 : Googlenet Variants With Research Paper And Practical
+
+Lecture 5 : Transfer Learning
+
+Lecture 6 : Vggnet Variants With Research Paper And Practical
+
+Lecture 7 : Resnet Variants With Research Paper And Practical
+
+Lecture 8 : Inception Net Variants With Research Paper And Practical
+
+
+RCNN & Yolo:
+Lecture 1 : Intro to RCNN
+
+Lecture 2 : Fast & Faster RCNN
+
+Lecture 3 : Overview of all previous version
+
+Lecture 4 : Introduction To Yolov9
+
+Lecture 5 : Installation Of Yolov9
+
+Lecture 6 : Data Annotation & Preparation
+
+Lecture 7 : Download Data & Configure Path
+
+Lecture 8 : Download & Configure Pretrained Weight
+
+Lecture 9 : Start Model Training
+
+Lecture 10 : Evaluation Curves Yolov9
+
+Lecture 11 : Inferencing Using Trained Model
+
+Lecture 12 : Evaluation Curves TFOD2
+
+Lecture 13 : Inferencing Using Trained Model
+
+
+Detecron2 & TFOD 2:
+Lecture 1 : Introduction To Detecron2
+
+Lecture 2 : Installation Of Detecron2
+
+Lecture 3 : Data Annotation & Preparation
+
+Lecture 4 : Download Data & Configure Path
+
+Lecture 5 : Download & Configure Pretrained Weight
+
+Lecture 6 : Start Model Training
+
+Lecture 7 : Evaluation Curves Detecron2
+
+Lecture 8 : Inferencing Using Trained Model
+
+
+Image Segmentation & Maskrcnn Practical:
+Lecture 1 : Introduction To TFOD2
+
+Lecture 2 : Installation Of TFOD2
+
+Lecture 3 : Data Annotation & Preparation
+
+Lecture 4 : Download Data & Configure Path
+
+Lecture 5 : Download & Configure Pretrained Weight
+
+Lecture 6 : Start Model Training
+
+Lecture 7 : Evaluation Curves TFOD2
+
+Lecture 8 : Inferencing Using Trained Model
+
+Lecture 9 : Scene Understanding
+
+Lecture 10 : More To Detection
+
+Lecture 11 : Need Accurate Results
+
+Lecture 12 : Segmentation
+
+Lecture 13 : Types Of Segmentation
+
+Lecture 14 : Understanding Masks
+
+Lecture 15 : Maskrcnn
+
+Lecture 16 : From Bounding Box To Polygon Masks
+
+Lecture 17 : Mask Rcnn Architecture
+
+
+Object Tracking:
+Lecture 1 : What Is Object Tracking?
+
+Lecture 2 : Doing Annotations Or Labeling Data
+
+Lecture 3 : Registering Dataset For Training
+
+Lecture 4 : Selection Of Pretrained Model From Model Zoo
+
+Lecture 5 : Let's Start Training
+
+Lecture 6 : Stop Training Or Resume Training
+
+Lecture 7 : Inferencing Using The Custom Trained Model In Colab
+
+Lecture 8 : Evaluating The Model
+
+Lecture 9 : Kalman Filter
+
+Lecture 10 : Data Preprocessing
+
+Lecture 11 : Using Yolo For Detection
+
+Lecture 12 : Preparing Deep sort With Yolo
+
+Lecture 13 : Combining Pipelines For Tracking & Detection
+
+
+GAN:
+Lecture 1 : Introduction To Gans
+
+Lecture 2 : Gan Architecture
+
+Lecture 3 : Discriminator
+
+Lecture 4 : Generator
+
+Lecture 5 : Controllable Generation
+
+Lecture 6 : Wgans
+
+Lecture 7 : Dcgans
+
+Lecture 8 : Stylegans
+
+Lecture 9 : Gan Practical's Implementation
+
+
+Nlp Introduction:
+Lecture 1 : Overview Computational Linguistic.
+
+Lecture 2 : History Of Nlp.
+
+Lecture 3 : Why Nlp
+
+Lecture 4 : Use Of Nlp
+
+
+Text Processing for Nlp:
+Lecture 1 : Text Processing
+
+Lecture 2 : Understanding Regex
+
+Lecture 3 : Text Normalization
+
+Lecture 4 : Word Count.
+
+Lecture 5 : Frequency Distribution
+
+Lecture 6 : String Tokenization
+
+Lecture 7 : Annotator Creation
+
+Lecture 8 : Sentence Processing
+
+Lecture 9 : Lemmatization In Text Processing
+
+Lecture 10 : Word Embedding
+
+Lecture 11 : Co-Occurrence Vectors
+
+Lecture 12 : Word2Vec
+
+Lecture 13 : Doc2Vec
+
+
+Nlp Libraries & Networks:
+Lecture 1 : Nltk
+
+Lecture 2 : Text Blob
+
+Lecture 3 : Recurrent Neural Networks.
+
+Lecture 4 : Long Short Term Memory (Lstm)
+
+Lecture 5 : Bi Lstm
+
+Lecture 6 : Stacked Lstm
+
+Lecture 7 : Gru Implementation
+
+
+Attention based model & Transfer learning:
+Lecture 1 : Seq 2 Seq.
+
+Lecture 2 : Encoders And Decoders.
+
+Lecture 3 : Attention Mechanism.
+
+Lecture 4 : Self-Attention
+
+Lecture 5 : Introduction To Transformers.
+
+Lecture 6 : Bert Model.
+
+Lecture 7 : Gpt2 Model.
+
+
+Introduction of Generative AI:
+Lecture 1 : Introduction of Generative AI and its use cases
+
+Lecture 2 : Probabilistic modeling and generative models
+
+
+Generative AI for Text Generation:
+Lecture 1 : Autoencoders and variational autoencoders
+
+Lecture 2 : RNN & LSTM
+
+Lecture 3 : Generative pre-trained transformers
+
+
+Generative AI for Machine Translation:
+Lecture 1 : SMT & NMT
+
+Lecture 2 : Attention mechanisms in NMT
+
+Lecture 3 : Generative pre-trained transformers
+
+
+Generative AI for Creative Content Generation:
+Lecture 1 : Poetry generation and music composition using generative AI
+
+Lecture 2 : Creative writing and storytelling with generative AI
+
+Lecture 3 : Ethical considerations and biases in creative content generation
+
+
+Advanced Topics in Generative AI with NLP:
+Lecture 1 : Reinforcement learning in generative AI for NLP
+
+Lecture 2 : Multimodal generative models for NLP
+
+Lecture 3 : Generative AI for natural language understanding (NLU)
+
+
+LLMs: Use Cases and Potentials:
+Lecture 1 : Introduction to Large Language Models (LLMs)
+
+Lecture 2 : Exploring the diverse applications of LLMs
+
+Lecture 3 : Understanding the potential of LLMs to transform various industries
+
+
+Hugging Face Hub: A Gateway to Generative AI:
+Lecture 1 : Navigating the Hugging Face Hub and its vast repository of pre-trained models
+
+Lecture 2 : Leveraging Hugging Face Hub's tools and resources for generative AI tasks
+
+Lecture 3 : Exploring real-world applications built upon Hugging Face Hub's models
+
+
+Prompt Engineering: The Art of Guiding LLMs:
+Lecture 1 : Understanding the role of prompts in guiding LLMs
+
+Lecture 2 : Crafting effective prompts to generate desired outputs
+
+Lecture 3 : Exploring advanced prompt engineering techniques
+
+
+RAG: A Versatile Tool for Generative AI:
+ Lecture 1 : Introduction to the Retrieval Augmented Generation (RAG)
+
+Lecture 2 : Discuss about the frameworks to achieve RAG
+
+Lecture 3 : Utilizing RAG for various generative AI tasks
+
+Lecture 4 : Understanding the advantages and limitations of RAG
+
+
+Fine-tuning: Unveiling the Potential of LLMs:
+Lecture 1 : Delving into the concept of fine-tuning LLMs
+
+Lecture 2 : Understanding the different approaches to fine-tuning LLMs
+
+Lecture 3 : Exploring real-world examples of fine-tuning for specific applications
+
+
+Project : On prompt image and caption generator:
+Lecture 1 : Exploring the OpenAI library in python
+
+Lecture 2 : Image Generation with openai library
+
+Lecture 3 : Image captioning with openai library
+
+
+Project : Customised Chat bot:
+Lecture 1 : Exploring LangChain and chainlit
+
+Lecture 2 : Creative Chatbot using LangChain and Chainlit
+
+
+Project : Genei: An Alexa like assistant:
+Lecture 1 : Alexa like Assistant
+
+
+Custom Chat GPT:
+Lecture 1 : A custom chat bot which can create images based on the given input
+
+
+
+
+
+
+
+
+
+
+
+
+
